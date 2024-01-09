@@ -13,8 +13,6 @@ u
 Eapp/src/main/java/com/raiseralex/coda_pizza/model/ToppingPlacement.kt,9/1/91b6e638ab49986b9b212a49c3875581db7757ce
 l
 <app/src/main/java/com/raiseralex/coda_pizza/model/Topping.kt,6/2/62fb48d6bb175b9f11daf8fc04c7b6fa49189459
-u
-Eapp/src/main/java/com/raiseralex/coda_pizza/ui/Pizza-BuilderScreen.kt,2/e/2e695a68a71bad87cf7540d3d6ba690b1b311ea6
 t
 Dapp/src/main/java/com/raiseralex/coda_pizza/ui/PizzaBuilderScreen.kt,f/f/fff6376e2ce2243e212002455894d2deeacbc014
 l
@@ -96,3 +94,7 @@ P
  app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
 
 Q.idea/sonarlint/securityhotspotstore/6/d/6de7b7efb070397a8b8814051f37b289fa6e74af,2/0/203d5420507cdf5ad6c7f0bc48611766e4618e21
+p
+@app/src/main/java/com/raiseralex/coda_pizza/ui/PizzaHeroImage.kt,7/8/78d5b6eeac18d389fa402f84ca55256fe7c983ff
+p
+@app/src/main/java/com/raiseralex/coda_pizza/ui/theme/AppTheme.kt,4/3/43ae78431fdd7015045e07dd8cdc913f92f46fab
